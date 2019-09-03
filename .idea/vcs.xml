@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/3sum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/binary_num_with_alternating_bits" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/contianer_with_most_water" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dfs_combination_sum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/divide_two_integers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/letter_combo_of_a_phone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/longest_palindromic_substring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/merge_two_sorted_lists" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multiply_strings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/palindrome_number" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parentheses" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/permutations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/remove_duplicates_from_sorted_array_in_place" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/remove_nth_node_from_end_of_list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/roman_integer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sorted_array_median" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/string_to_integer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zigzag_conversion" vcs="Git" />
+  </component>
+</project>
